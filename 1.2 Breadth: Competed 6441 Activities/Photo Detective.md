@@ -14,7 +14,8 @@
 
 从钻井与油田间的距离和井架密度，推断出油田的大致储量和产量
 
-<img src="C:\Users\24177\AppData\Roaming\Typora\typora-user-images\image-20240916192733013.png" alt="image-20240916192733013" style="zoom:67%;" />
+![图片](https://github.com/user-attachments/assets/0d10c2e5-a93f-4a9c-adde-c07e88c2acf5)
+
 
 传闻2
 
@@ -24,4 +25,4 @@
 
 2018年初，《华盛顿邮报》曝光，由于美军士兵使用手机应用软件记录健身轨迹，导致美军在叙利亚、阿富汗等地多个秘密军事基地的准确位置被暴露
 
-<img src="C:\Users\24177\AppData\Roaming\Typora\typora-user-images\image-20240916193215408.png" alt="image-20240916193215408" style="zoom:67%;" />
+![图片](https://github.com/user-attachments/assets/a207b1d7-7113-456b-853c-2e94f45b983c)
