@@ -1,0 +1,1 @@
+If the earthquake occurs, considering that we are at the deepest part of the building, we may not have enough time to escape. Therefore, I think the best choice would be to hide under the table to protect ourselves from falling debris. After the initial earthquake, we can consider evacuating to a safe place.
